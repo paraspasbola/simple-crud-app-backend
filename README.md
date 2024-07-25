@@ -2,6 +2,10 @@
 simple-cud-app-backend
 
 
+install first for node_modules --> npm install
+
+
+
 # final output 
 
 ![Screenshot (166)](https://github.com/user-attachments/assets/ca34eb90-9e6a-438a-b993-a797fc281d77)
